@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/646a01de-497e-44e7-8c3f-99b9a0d523cd" alt="Flutter-X-Dart Logo" width="60%" height="250%">
+   <img src="https://github.com/user-attachments/assets/7572dcd8-485a-4a38-b1e0-00a3c25cc8f6" alt="Flutter-X-Dart Logo" width="60%" height="250%">
 </div>
 
 # Flutter & DART
