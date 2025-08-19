@@ -8,7 +8,7 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 <div align="center">
    
-   **📌 Checkout my Other Repositories from [`Here`](https://github.com/Yashvant-Chhapwale-Course-Work/Yashvant-Chhapwale-Course-Work)!**
+   **📌 Discover more of my work in my [`Other Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/Yashvant-Chhapwale-Course-Work)!**
 </div>
 
 ---
