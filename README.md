@@ -4,11 +4,11 @@
 
 # Flutter & DART
 
-This **Repository** documents my my `Notes`, `Learnings`, and `UI_Project` as I progress through a `Tailwind_CSS Bootcamp` to Master **Modern UI development**.<br>
+This `Repository` serves as a **comprehensive record** of my `learnings`, `experiments`, and `progress` as I deepen my understanding of `DART` Programming and develop applications with `Flutter`.<br>
 
 <div align="center">
    
-   **📌 Checkout my Post-Bootcamp [`Tailwind_UI Project`](https://github.com/Yashvant-Chhapwale/Scribe_Smart-Notes)**
+   **📌 Checkout my Other Repositories from [`Here`](https://github.com/Yashvant-Chhapwale-Course-Work/Yashvant-Chhapwale-Course-Work)!**
 </div>
 
 ---
