@@ -27,6 +27,7 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 - `Single Codebase:` Build apps for Android, iOS, web, and desktop using one codebase.
 - `Widget-Based Architecture:` Everything in Flutter is a widget, enabling flexible and expressive UI design.
+  ![widgte-based-architecture](https://github.com/user-attachments/assets/5e7e412e-86f2-4875-b9fe-cece19f511be)<br>
 - `Hot Reload & Hot Restart:` Instantly see code changes reflected in the running app.
 <br>
 
