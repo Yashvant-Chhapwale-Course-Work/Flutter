@@ -32,7 +32,7 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 <div align="center">
    
-   **📌 Visit the [Official_Documentation](https://tailwindcss.com/docs) to know more about `Tailwind_CSS`.**
+   **📌 Visit the [Official_Documentation](https://docs.flutter.dev/) to know more about `Flutter SDK`.**
 </div>
 
 ---
