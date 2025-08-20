@@ -15,7 +15,7 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 ## About Flutter
 
-`Tailwind CSS` is a **`Utility-First CSS Framework`** for rapidly building **Modern** and **Responsive** User_Interfaces.<br>
+`Flutter` is an **Open-source** `UI SDK (Software_Development_Toolkit)` created by **`Google`**.<br>
 
 - `Utility:` A **Utility** is a **Single-Purpose CSS_Class** that applies **Styling** for one specific **Style_Attribute**.
 - `Utility-First:` **Tailwind** encourages you to use **Utility_Classes** which are your **First and Main Styling_Method** before using External_CSS or Plugins.
