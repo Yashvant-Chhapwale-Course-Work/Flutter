@@ -25,12 +25,10 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 ### Features:
 
-- `Utility-First Approach:` The **Utility_Classes** are your First and Main Styling_Method.
-- `Responsive Design:` Easily build **UI_layouts that Adapt to different Screen_Sizes** with Mobile-First breakpoints.
-- `Customizable:` **Fully Customizable via the `tailwind.config.js` file** for colors, spacing, fonts, and more.
-- `Component-Friendly:` Encourages **Reusable UI_Components** without the need to leave HTML.
-- `JIT(Just-In-Time) Engine:` **Utilizes Just-In-Time Compilation** for fast build times and smaller final CSS output. It generates the CSS you need, only when you need it, instead of generating everything up front.
-  <br>
+- `Single Codebase:` Build apps for Android, iOS, web, and desktop using one codebase.
+- `Widget-Based Architecture:` Everything in Flutter is a widget, enabling flexible and expressive UI design.
+- `Hot Reload & Hot Restart:` Instantly see code changes reflected in the running app.
+<br>
 
 <div align="center">
    
