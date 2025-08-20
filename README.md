@@ -17,9 +17,11 @@ This `Repository` serves as a **comprehensive record** of my `learnings`, `exper
 
 `Flutter` is an **Open-source** `UI SDK (Software_Development_Toolkit)` created by **`Google`**.<br>
 
-- `Utility:` A **Utility** is a **Single-Purpose CSS_Class** that applies **Styling** for one specific **Style_Attribute**.
-- `Utility-First:` **Tailwind** encourages you to use **Utility_Classes** which are your **First and Main Styling_Method** before using External_CSS or Plugins.
-- `CSS_Framework`: **Tailwind** is a **CSS_Framework** that provides a **predefined set of Styles, Utility_Classes, and Conventions** that help you build UIs quickly.
+- `Fast Development:` Hot Reload allows instant UI updates.
+- `Expressive UI:` Rich set of customizable widgets for building beautiful, responsive apps.
+- `Cross-Platform:` Write once, run on Android, iOS, web, and desktop.
+- `High Performance:` Powered by the Dart language and Skia graphics engine for smooth experiences.
+- `Strong Community & Support:` Backed by Google with extensive documentation and package support.
 
 ### Features:
 
